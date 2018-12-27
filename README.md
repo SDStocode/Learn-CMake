@@ -1,2 +1,2 @@
 # Learn-CMake
-Anything
+The folder "Tutorials" are the formal tutorials about CMake
