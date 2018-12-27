@@ -1,0 +1,4 @@
+/home/zhouhua/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/173.4674.29/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE= -G "CodeBlocks - Unix Makefiles" /home/zhouhua/CLionProjects/cmake-master/Tests/Tutorial/Step1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zhouhua/CLionProjects/cmake-master/Tests/Tutorial/Step1

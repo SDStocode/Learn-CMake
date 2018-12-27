@@ -1,0 +1,6 @@
+/home/zhouhua/CLionProjects/cmake-master/Tests/Tutorial/Step2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zhouhua/CLionProjects/cmake-master/Tests/Tutorial/Step2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zhouhua/CLionProjects/cmake-master/Tests/Tutorial/Step2/cmake-build-debug/CMakeFiles/Tutorial.dir
+/home/zhouhua/CLionProjects/cmake-master/Tests/Tutorial/Step2/cmake-build-debug/MathFunctions/CMakeFiles/rebuild_cache.dir
+/home/zhouhua/CLionProjects/cmake-master/Tests/Tutorial/Step2/cmake-build-debug/MathFunctions/CMakeFiles/edit_cache.dir
+/home/zhouhua/CLionProjects/cmake-master/Tests/Tutorial/Step2/cmake-build-debug/MathFunctions/CMakeFiles/MathFunctions.dir

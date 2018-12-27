@@ -1,0 +1,3 @@
+/home/zhouhua/CLionProjects/cmake-master/Tests/Tutorial/Step1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zhouhua/CLionProjects/cmake-master/Tests/Tutorial/Step1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zhouhua/CLionProjects/cmake-master/Tests/Tutorial/Step1/cmake-build-debug/CMakeFiles/Tutorial.dir
